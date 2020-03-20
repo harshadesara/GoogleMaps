@@ -23,6 +23,7 @@ from time import sleep
 import csv
 import re
 from datetime import datetime
+#New line added
 
 app = QtWidgets.QApplication([])
 dlg = uic.loadUi("C:\\Users\DELL\.PyCharm2019.2\config\scratches\WebScraping\home.ui")
